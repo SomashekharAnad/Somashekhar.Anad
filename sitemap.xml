@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace YOUR-USERNAME with your GitHub username -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/index.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/about.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/experience.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/blog.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/contact.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/resume/index.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/dashboard/index.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/downloads/index.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/github/index.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/edgenius-lms-cod.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/800xa-symphony-interop.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/ntpc-symphony-upgrade.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/jsw-commissioning.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/sugar-waste-level.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/pid-temp-level.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/realtime-simulator.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/projects/mcc-plc-panel.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications/plc.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications/scada-hmi.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications/panel.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications/protocols.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications/symphony.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications/edgenius.html</loc><lastmod>2026-10-13</lastmod></url>
+  <url><loc>https://YOUR-USERNAME.github.io/portfolio/certifications/abb-reliaquote-small-project-specialist.html</loc><lastmod>2026-10-13</lastmod></url>
+</urlset>
